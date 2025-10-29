@@ -1,2 +1,7 @@
-console.log("ini file inheritance");
-console.log("test ini push kedua");
+class Person {
+    name;
+    constructor(name){
+        this.name = name;
+    }
+    
+}
